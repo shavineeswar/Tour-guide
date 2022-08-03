@@ -1,0 +1,151 @@
+body{
+	background:url('colombo.jpg');
+	background-size:cover;
+	font-family:Arial;
+}
+.wrap{
+	max-width:500px;
+	border-radius:20px;
+	margin:auto;
+	background:rgba(0,0,0,0.8);
+	box-sizing:border-box;
+	padding:40px;
+	color:#fff;
+	margin-top:100px;
+}
+#bgpic{
+	background:url('colombo.jpg');
+	background-size:cover;
+	font-family:Arial;
+	
+}
+.wrap{
+	max-width:500px;
+	border-radius:20px;
+	margin:auto;
+	background:rgba(0,0,0,0.8);
+	box-sizing:border-box;
+	padding:40px;
+	color:#fff;
+	margin-top:0px;
+}
+body{
+	 box-sizing: border-box;
+	 background-image:url("bg.jpg"));
+
+}
+.nav ul{
+	background:#282b36;
+	text-align: left;
+	margin:0;
+	padding:20px;
+}
+.nav li{
+	display: inline-block;
+}
+.nav a {
+	text-decoration: none;
+	color: white;
+	padding : 20px;
+	font-size:17px;
+	font-family:Helvetica;
+	
+}
+.nav a:hover {
+	background:#20218a;
+	transition:0.4s;
+} 
+.search-form{
+	float:right;
+}
+input[type=text]{
+	padding:3px;
+	border:none;
+	font-size:14px;
+	font-family:sans-serif;
+}
+#sbtn{
+	float:right;
+	background:#700000;
+	color:white;
+	cursor:pointer;
+	font-size:17px;
+	border:none;
+	position:relative;
+}
+
+
+
+
+
+.footer-main-div
+{	overflow:hidden;
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background:#282b36;
+	padding: 20px 0px;		
+}
+
+.footer-social-icons
+{	
+	width : 97%;
+	height : auto;
+	margin : auto;
+	
+}
+.footer-social-icons ul
+{	
+	margin : 0px;
+	padding : 0px;
+	display : inline-block;
+	
+}
+.footer-social-icons ul li
+{	
+	display : inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 5px 1px;
+	border-radius: 100%;
+	text-align:inline;
+	
+}
+#logo
+{
+	height:80px;
+	float:center;
+	display:inline-block;
+}
+body
+{
+	background-color:#e9f2f0;
+}
+#cpyrgt
+{
+	float:left;
+	color:#f7f0f6;
+}
+#description
+{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:30px;
+}
+#cart
+{
+	float:right;
+	color:white;
+	display:inline-block;background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url("pack2.jpg"));
+
+	padding:15px;
+}
+.box-img{
+ margin-left:1350px;
+ display:inline-block;
+ margin-top:-100px;
+}
+.nav
+{
+	margin-top:-20px;
+}

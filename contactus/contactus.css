@@ -1,0 +1,246 @@
+#bgpic{
+
+  /* The image used */
+  background-image:url("city.jpg");
+
+  /* Full height */
+  height: 125%; 
+  width:auto;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+input {
+  width: 60%;
+  padding: 3px 2px;
+  margin: 6px ;
+  box-sizing: border-box;
+  line-height:10px;
+}
+.checked {
+  color: orange;
+}
+.vl {
+  border-left: 3px solid black;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 450;
+}
+img{
+	
+	margin:right;
+	display:inline-block;
+    float: left;
+    margin-top:10px;
+}
+
+
+  
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+#tbl1
+{
+	float:left;
+	padding:20px 100px ;
+}
+
+#tbl2
+{
+	float:right;
+	padding:20px;
+	text-align:justify;
+}
+
+#tbl3
+{
+	float:right;
+	 text-align:right;
+	 
+}
+#imgmap
+{
+	float:left;
+}
+
+
+/*social media photos*/
+
+{
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: right;
+  width: 10%;
+  padding: 0px 50px;
+}
+
+.column img {
+  margin-top: 12px;
+  float: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  float: right;
+}
+#social
+{ float:right;}
+.box{
+	width:600%;
+	height:75px;
+	padding:0;
+	margin:auto;
+	box-shadow:0px 0px 10px 2px grey;
+	border:solid;
+	background-color:#97999c;
+	
+}
+.box1{
+	width:600%;
+	height:160px;
+	padding:0;
+	margin:auto;
+	box-shadow:0px 0px 10px 2px grey;
+	border:solid;
+	background-color:#97999c;
+	
+}
+h1{
+	font-size:50px;
+	color:#fff
+}
+body{
+	 box-sizing: border-box;
+	 background-image:url("bg.jpg"));
+
+}
+.nav ul{
+	background:#282b36;
+	text-align: left;
+	margin:0;
+	padding:20px;
+}
+.nav li{
+	display: inline-block;
+}
+.nav a {
+	text-decoration: none;
+	color: white;
+	padding : 20px;
+	font-size:17px;
+	font-family:Helvetica;
+	
+}
+.nav a:hover {
+	background:#20218a;
+	transition:0.4s;
+} 
+.search-form{
+	float:right;
+}
+input[type=text]{
+	padding:3px;
+	border:none;
+	font-size:14px;
+	font-family:sans-serif;
+}
+#sbtn{
+	float:right;
+	background:#700000;
+	color:white;
+	cursor:pointer;
+	font-size:17px;
+	border:none;
+	position:relative;
+}
+
+
+
+
+
+.footer-main-div
+{	overflow:hidden;
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background:#282b36;
+	padding: 20px 0px;		
+}
+
+.footer-social-icons
+{	
+	width : 97%;
+	height : auto;
+	margin : auto;
+	
+}
+.footer-social-icons ul
+{	
+	margin : 0px;
+	padding : 0px;
+	display : inline-block;
+	
+}
+.footer-social-icons ul li
+{	
+	display : inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 5px 1px;
+	border-radius: 100%;
+	text-align:inline;
+	
+}
+#logo
+{
+	height:80px;
+	float:center;
+	display:inline-block;
+}
+body
+{
+	background-color:#e9f2f0;
+}
+#cpyrgt
+{
+	float:left;
+	color:#f7f0f6;
+}
+#description
+{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:30px;
+}
+#cart
+{
+	float:right;
+	color:white;
+	display:inline-block;background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url("pack2.jpg"));
+
+	padding:15px;
+}
+.box-img{
+ margin-left:1350px;
+ display:inline-block;
+ margin-top:-100px;
+}
+.nav
+{
+	margin-top:-20px;
+}
+
+
